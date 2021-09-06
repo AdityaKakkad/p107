@@ -1,0 +1,21 @@
+.head {
+    background-color: aquamarine;
+    width: 70%;
+    line-height: 2;
+    border-radius: 5px;
+}
+
+canvas{
+    border-radius: 5px;
+   margin-left: 1000px;
+}
+
+button {
+    background-color: greenyellow;
+    border-radius: 5px;
+    font-size: xx-large;
+}
+
+video{
+    
+}
